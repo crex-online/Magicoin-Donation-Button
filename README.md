@@ -1,7 +1,7 @@
 Magicoin Donation Button
 ==============
 
-*The Coin Magi Donation Button*
+*The Coin Magi Donation Button* - edited by cryptoCoder
 
 The original project was created by http://scotty.cc/, visit http://coinwidget.com/ for full documentation, demo, and a link code wizard.
 
@@ -12,9 +12,6 @@ Please help keep this project alive! Tell someone about this widget!
 Donations are welcome and will go towards further development of this project as well as other crypto related projects. Use the wallet addresses below to donate. 
 
 	XMG: 9SxtEFZwPoV54AR6KLvNtBcDyVgUoV6zWH
-
-	BTC: 122MeuyZpYz4GSHNrF98e6dnQCXZfHJeGS
-	LTC: LY1L6M6yG26b4sRkLv4BbkmHhPn8GR5fFm
 
 *Thank you for your support and generosity!*
 
@@ -62,13 +59,7 @@ Example Code
 
 See the file: **code-sample.html**
 
-The complete list of the options and acceptable values can be found on http://coinwidget.com/.
+The complete list of the options and acceptable values can be found in the table above.
 
-You can also use the wizard on http://coinwidget.com/ to generate linking codes, just be sure to change: `<script src="http://coinwidget.com/widget/coin.js"></script>` to use your own hosted copy of coin.js.
+*Enjoy! - cryptoCoder*
 
-*Enjoy! -scotty*
-
-
-==============
-*If you run into a bug, or a styling issue, or if you need help or have an idea please e-mail:
-coinwidget.com@gmail.com*

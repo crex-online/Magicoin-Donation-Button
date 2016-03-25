@@ -1,17 +1,17 @@
-coinwidget.com
+Magicoin Donation Button
 ==============
 
-*The Bitcoin and Litecoin Donation Button*
+*The Coin Magi Donation Button*
 
-Visit http://coinwidget.com/ for full documentation, demo, and a link code wizard.
-
-CoinWidget was created by http://scotty.cc/ (hire me for your next project!)
+The original project was created by http://scotty.cc/, visit http://coinwidget.com/ for full documentation, demo, and a link code wizard.
 
 Released under the Open Source **MIT License** (see **LICENSE** file for details).
 
 Please help keep this project alive! Tell someone about this widget! 
 
 Donations are welcome and will go towards further development of this project as well as other crypto related projects. Use the wallet addresses below to donate. 
+
+	XMG: 9SxtEFZwPoV54AR6KLvNtBcDyVgUoV6zWH
 
 	BTC: 122MeuyZpYz4GSHNrF98e6dnQCXZfHJeGS
 	LTC: LY1L6M6yG26b4sRkLv4BbkmHhPn8GR5fFm
@@ -21,16 +21,9 @@ Donations are welcome and will go towards further development of this project as
 
 Installation
 ==============
-A. Grab the latest version from GitHub: https://github.com/scottycc/coinwidget.com
+A. Grab the latest version from GitHub: https://github.com/cryptoCoder/Magicoin-Donation-Button
 
-B. Open **widget/coin.js** and find:
-
-	source: 'http://coinwidget.com/widget/'
-
-C. Change the URL portion of this line to your own server/path.
-
-D. (optional) Open **lookup.php** and consider implementing a caching method based on your own style and preference.
-
+B. See the file **code-sample.html**
 
 Example Code
 ==============

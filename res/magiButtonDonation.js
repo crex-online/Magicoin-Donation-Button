@@ -297,7 +297,7 @@ var CoinWidgetCom = {
 					id 		: 'COINWIDGETCOM_STYLESHEET'
 					, rel 	: 'stylesheet'
 					, type 	: 'text/css'
-					, href 	: CoinWidgetCom.source+'coin.css'
+					, href 	: CoinWidgetCom.source+'magiButtonDonation.css'
 				});
 			}
 		}
